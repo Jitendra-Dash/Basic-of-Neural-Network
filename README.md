@@ -33,39 +33,4 @@ GOT IT!!!
 
 So <font color = 'red'> what are Neurons ?</font>    
 Neurons are the primary cell of the nervous system.They are responsible for transmitting electrical signslas to other cells.  
-We have diffrent kind of neuron in our body like sensory neuron, motor neuron etc.These are the cell when you touch a hot plate they transmit signals to our spinal cord and brain that "hey thats hot ".    
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jitendra-Dash/Basic-of-Neural-Network/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We have diffrent kind of neuron in our body like sensory neuron, motor neuron etc.These are the cell when you touch a hot plate they transmit signals to our spinal cord and brain that "hey thats hot ".   
