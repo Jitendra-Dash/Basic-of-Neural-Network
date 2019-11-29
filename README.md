@@ -1,7 +1,9 @@
 ## In order to understand something We have to ask questions
 ### Make sure you should ask relevent question 
 ### <font color = 'red'>What is neural network ? </font>
-ans - collection of neuron form  a network to solve a complex task (lets say a mathametical function)
+ANS - collection of neuron form  a network to solve a complex task (lets say a mathametical function)
+
+##### Here is an example where we can use a neural network to detect whether a given image is a Cat or Dog.
 ![Image detection ](https://miro.medium.com/max/1920/1*oB3S5yHHhvougJkPXuc8og.gif)
 
 
