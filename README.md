@@ -2,7 +2,7 @@
 ### Make sure you should ask relevent question 
 ### <font color = 'red'>What is neural network ? </font>
 ans - collection of neuron form  a network to solve a complex task (lets say a mathametical function)
-![Image detection ](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjB0dH_4Y7mAhXyjOYKHc-_CG8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F407364728791164154%2F&psig=AOvVaw3t9G1qP5jIn65k9FPzonoL&ust=1575094346044349)
+![Image detection ](https://i.pinimg.com/originals/47/e2/2d/47e22dc415b64966ab21304a7bb1d9b8.gif)
 
 
 
