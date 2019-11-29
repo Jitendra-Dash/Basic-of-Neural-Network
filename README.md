@@ -20,17 +20,17 @@ source - google.
 
 Lets get start !!!   
 
-<font color = 'red'> From where on the earth " Neural Network " came ?</font>       
+### <font color = 'red'> From where on the earth " Neural Network " came ?</font>       
   
 ANS - All these neural network things are inspired by biology .In human body and animals we have something called <font color = 'blue'>Nervous System </font>.      
 
 OK!!!!     
 
-then <font color = 'red'> what is Nervous System ?</font>     
+### then <font color = 'red'> what is Nervous System ?</font>     
 ANS - Nevous System is Made up of diffrent kind or a special kind of cell in animals or human body which transmit singnals , the cell are called Neurons.     
 
 GOT IT!!!    
 
-So <font color = 'red'> what are Neurons ?</font>    
+### So <font color = 'red'> what are Neurons ?</font>    
 Neurons are the primary cell of the nervous system.They are responsible for transmitting electrical signslas to other cells.  
 We have diffrent kind of neuron in our body like sensory neuron, motor neuron etc.These are the cell when you touch a hot plate they transmit signals to our spinal cord and brain that "hey thats hot ".   
