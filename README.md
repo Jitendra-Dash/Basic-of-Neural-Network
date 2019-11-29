@@ -3,9 +3,9 @@
 - Neural network
 - Neurons
 - Single Neuron
-##### - Multi layerd perceptron (multiple neurons)
-##### - Training of Multi Layered perceptron
-##### - Backpropagation
+- Multi layerd perceptron (multiple neurons)
+- Training of Multi Layered perceptron
+- Backpropagation
 
 
 ## In order to understand something We have to ask questions.
