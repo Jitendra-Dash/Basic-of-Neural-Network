@@ -1,6 +1,9 @@
-## In order to understand something We have to ask questions . Lots of questions !!!!
+## In order to understand something We have to ask questions
+### Make sure you should ask relevent question 
+### <font color = 'red'>What is neural network ? </font>
+ans - collection of neuron form  a network to solve a complex task (lets say a mathametical function)
 
-You can use the [editor on GitHub](https://github.com/Jitendra-Dash/Basic-of-Neural-Network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
