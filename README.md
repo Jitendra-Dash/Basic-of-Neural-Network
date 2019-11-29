@@ -1,4 +1,4 @@
-# what are things we will learn from this blog.
+# <font color = 'orange'>what are things we will learn from this blog.</font>
 
 - Neural network
 - Neurons
