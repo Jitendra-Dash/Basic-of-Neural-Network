@@ -1,4 +1,4 @@
-## In order to understand something We have to ask quetions . Lots of questions !!!!
+## In order to understand something We have to ask questions . Lots of questions !!!!
 
 You can use the [editor on GitHub](https://github.com/Jitendra-Dash/Basic-of-Neural-Network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
