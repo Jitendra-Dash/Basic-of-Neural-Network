@@ -1,14 +1,25 @@
-## In order to understand something We have to ask questions
-### Make sure you should ask relevent question 
+# what are things we will learn from this blog.
+
+- Neural network
+- Neurons
+- Single Neuron
+##### - Multi layerd perceptron (multiple neurons)
+##### - Training of Multi Layered perceptron
+##### - Backpropagation
+
+
+## In order to understand something We have to ask questions.
+### Make sure you should ask relevent questions. 
 ### <font color = 'red'>What is neural network ? </font>
 ANS - collection of neuron form  a network to solve a complex task (lets say a mathametical function)
 
 ##### Here is an example where we can use a neural network to detect whether a given image is a Cat or Dog.
 ![Image detection ](https://miro.medium.com/max/1920/1*oB3S5yHHhvougJkPXuc8og.gif)
+source - google.
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
