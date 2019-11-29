@@ -40,4 +40,4 @@ We have diffrent kind of neuron in our body like sensory neuron, motor neuron et
 - Most neurons receive signals via the dendrites and soma and send out signals down the axon. Neurons are connected to each other in various patterns, to allow the output of some neurons to become the input of others  
 
 
-!
+
