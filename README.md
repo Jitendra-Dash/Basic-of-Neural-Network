@@ -33,4 +33,4 @@ GOT IT!!!
 
 ### So <font color = 'red'> what are Neurons ?</font>    
 Neurons are the primary cell of the nervous system.They are responsible for transmitting electrical signslas to other cells.  
-We have diffrent kind of neuron in our body like sensory neuron, motor neuron etc.These are the cell when you touch a hot plate they transmit signals to our spinal cord and brain that "hey thats hot ".   
+We have diffrent kind of neuron in our body like sensory neuron, motor neuron etc.These are the cell when you touch a hot plate they transmit signals to our spinal cord and brain that "hey thats hot ".    
