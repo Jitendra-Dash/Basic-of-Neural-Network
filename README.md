@@ -41,7 +41,7 @@ We have diffrent kind of neuron in our body like sensory neuron, motor neuron et
 
 ### <font color = 'red'> how Neural network related to nervous system or neurons ?</font>   
 Whenever eye sees something the sensor and motor neurons transmit signal to the brain which inform us that we are seeing a cat.Just like that the Artificial Neural network work
-###<font color = 'green'>Now we got some familiarity with the neurons(Biological) we can learn about the neurons(neural network)</font>
+### <font color = 'green'>Now we got some familiarity with the neurons(Biological) we can learn about the neurons(neural network)</font>
 Take a look to a neuron(NN) : 
 ![single_neuron1](https://user-images.githubusercontent.com/46401460/71612134-49cd5800-2bc4-11ea-8846-00dcb84e0974.png)
 
