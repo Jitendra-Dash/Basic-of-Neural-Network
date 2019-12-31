@@ -59,9 +59,9 @@ Input take by nerons are nothing but some vectors (these vectors are came from d
 it consist a function :<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />    
 Here W's are the weight associated with the data X's . In biological neuron whenevr we learn something the dendrite get some weight in order to store the information like that the NN neuron also have some weight (wieght change over time : we will learn this in backpropagation) , b is a bias.
 
-3. output : After solving the math it produced some result. 
+3.. output : After solving the math it produced some result. 
 
-#### <font color = 'red'> This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
+###### <font color = 'red'> note : This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
 
 
 
