@@ -42,7 +42,7 @@ We have diffrent kind of neuron in our body like sensory neuron, motor neuron et
 ### <font color = 'red'> how Neural network related to nervous system or neurons ?</font>   
 Whenever eye sees something the sensor and motor neurons transmit signal to the brain which inform us that we are seeing a cat.Just like that the Artificial Neural network work
 ### <font color = 'green'>Now we got some familiarity with the neurons(Biological) we can learn about the neurons(neural network)</font>
-here is a comparision where we see can that our neuron from neural network kind of similar to biological neuron.
+Here is a comparision where we see can that our neuron from neural network kind of similar to biological neuron.
 
 ![comparision artificial and bilogical](https://user-images.githubusercontent.com/46401460/71612493-cb25ea00-2bc6-11ea-8b38-6d3509113aec.png)
 
@@ -51,13 +51,21 @@ lets dig into our objective "The neuron" of Neural network
 ![single_neuron1](https://user-images.githubusercontent.com/46401460/71612699-1a204f00-2bc8-11ea-8e82-37d2544180cb.png)
 
 As we can see in the above picture we can divide a neuron into 3 catagory :
-1. Input :- Here the neuron take the data
-2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later)
-3. output : After solving the math it produced some result.
+1. Input :- Here the neuron take the data    
+Input take by nerons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
 
-Input - the input take by nerons are nothing but vectors (these vectors are came from different kind of data it could be image ,text etc.)   
+2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later).  
 
-Cell Body - it consist a function :<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />  
+it consist a function :<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />    
+Here W's are the weight associated with the data X's . In biological neuron whenevr we learn something the dendrite get some weight in order to store the information like that the NN neuron also have some weight (wieght change over time : we will learn this in backpropagation) , b is a bias.
+
+3. output : After solving the math it produced some result. 
+
+#### <font color = 'red'> This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
+
+
+
+
 
 
 
