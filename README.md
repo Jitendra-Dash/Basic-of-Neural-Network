@@ -39,7 +39,7 @@ We have diffrent kind of neuron in our body like sensory neuron, motor neuron et
 
 - Most neurons receive signals via the dendrites and soma and send out signals down the axon. Neurons are connected to each other in various patterns, to allow the output of some neurons to become the input of others  
 
-### <font color = 'red'> how Neural network related to nervous system or neurons ?</font>   
+### <font color = 'red'> How Neural network related to nervous system or neurons ?</font>   
 Whenever eye sees something the sensor and motor neurons transmit signal to the brain which inform us that we are seeing a cat.Just like that the Artificial Neural network work
 ### <font color = 'green'>Now we got some familiarity with the neurons(Biological) we can learn about the neurons(neural network)</font>
 Here is a comparision where we see can that our neuron from neural network kind of similar to biological neuron.
