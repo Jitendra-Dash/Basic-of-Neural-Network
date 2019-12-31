@@ -46,9 +46,12 @@ here is a comparision where we see can that our neuron from neural network kind 
 
 ![comparision artificial and bilogical](https://user-images.githubusercontent.com/46401460/71612493-cb25ea00-2bc6-11ea-8b38-6d3509113aec.png)
 
-Take a look to a neuron(NN) : 
+lets dig into our objective "The neuron" of Neural network
 
-![single_neuron1](https://user-images.githubusercontent.com/46401460/71612134-49cd5800-2bc4-11ea-8846-00dcb84e0974.png)
+we can observe a neuron by dividing it into 3 catagory :
+1. Input :- Here the neuron take the data 
+2. cell body :- 
+
 
 
 
