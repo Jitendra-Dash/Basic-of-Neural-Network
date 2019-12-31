@@ -57,7 +57,8 @@ As we can see in the above picture we can divide a neuron into 3 catagory :
 
 Input - the input take by nerons are nothing but vectors (these vectors are came from different kind of data it could be image ,text etc.)
 Cell Body - it consist a function :
-$$ F = {(W^TX + b)}$$
+<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />
+
 
 
 
