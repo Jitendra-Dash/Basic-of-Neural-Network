@@ -48,9 +48,14 @@ here is a comparision where we see can that our neuron from neural network kind 
 
 lets dig into our objective "The neuron" of Neural network
 
-we can observe a neuron by dividing it into 3 catagory :
-1. Input :- Here the neuron take the data 
-2. cell body :- 
+![single_neuron1](https://user-images.githubusercontent.com/46401460/71612699-1a204f00-2bc8-11ea-8e82-37d2544180cb.png)
+
+As we can see in the above picture we can divide a neuron into 3 catagory :
+1. Input :- Here the neuron take the data
+2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later)
+3. output : After solving the math it produced some result.
+
+
 
 
 
