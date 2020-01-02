@@ -3,6 +3,7 @@
 - Neural network
 - Neurons
 - Single Neuron
+- Perceptron
 - Multi layerd perceptron (multiple neurons)
 - Training of Multi Layered perceptron with Backpropagation
 
@@ -40,22 +41,21 @@ We have diffrent kind of neuron in our body like sensory neuron, motor neuron et
 - Most neurons receive signals via the dendrites and soma and send out signals down the axon. Neurons are connected to each other in various patterns, to allow the output of some neurons to become the input of others  
 
 ### <font color = 'red'> How Neural network related to nervous system or neurons ?</font>   
-Whenever eye sees something the sensor and motor neurons transmit signal to the brain which inform us that we are seeing a cat.Just like that the Artificial Neural network work
+Whenever our eyes saw something the sensor and motor neurons transmit signal to the brain which inform us that we are seeing a cat.Just like that the Artificial Neural network work
 ### <font color = 'green'>Now we got some familiarity with the neurons(Biological) we can learn about the neurons(neural network)</font>
 Here is a comparision where we see can that our neuron from neural network kind of similar to biological neuron.
 
-![comparision artificial and bilogical](https://user-images.githubusercontent.com/46401460/71612493-cb25ea00-2bc6-11ea-8b38-6d3509113aec.png)
+![comparision artificial and bilogical](https://user-images.githubusercontent.com/46401460/71660260-70c88d00-2d70-11ea-970f-4f05e9e11b22.png)
 
-lets dig into our objective "The neuron" of Neural network
+Lets dig into our objective "The neuron" of Neural network
 
 ![single_neuron1](https://user-images.githubusercontent.com/46401460/71612699-1a204f00-2bc8-11ea-8e82-37d2544180cb.png)
 
 As we can see in the above picture we can divide a neuron into 3 catagory :
-1. Input :- Here the neuron take the data    
-Input take by nerons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
+1. Input :- Here the neuron take the data (In our case these are X1,X2,X3,X4)    
+Input take by neurons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
 
-2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later).  
-
+2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later).
 it consist a function :<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />    
 Here W's are the weight associated with the data X's . In biological neuron whenevr we learn something the dendrite get some weight in order to store the information like that the NN neuron also have some weight (wieght change over time : we will learn this in backpropagation) , b is a bias.
 
@@ -63,6 +63,8 @@ Here W's are the weight associated with the data X's . In biological neuron when
 
 ###### <font color = 'red'> note : This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
 
+## Perceptron :-
+The perceptron is an algorithm for learning a binary classifier called a threshold function: A function which going to return 1 when <img src="https://latex.codecogs.com/gif.latex?W^TX&space;&plus;&space;b&space;>&space;0" title="W^TX + b > 0" /> else it will return 0.
 
 
 
