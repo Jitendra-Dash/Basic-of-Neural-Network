@@ -47,23 +47,24 @@ Here is a comparision where we see can that our neuron from neural network kind 
 
 ![comparision artificial and bilogical](https://user-images.githubusercontent.com/46401460/71660260-70c88d00-2d70-11ea-970f-4f05e9e11b22.png)
 
-Lets dig into our objective "The neuron" of Neural network
+Lets have a look into our objective "The neuron" of Neural network
 
-![single_neuron1](https://user-images.githubusercontent.com/46401460/71612699-1a204f00-2bc8-11ea-8e82-37d2544180cb.png)
+![single_neuron1](https://user-images.githubusercontent.com/46401460/71768241-66f28580-2f3a-11ea-960c-18fc5781f279.png)
 
 As we can see in the above picture we can divide a neuron into 3 catagory :
 1. Input :- Here the neuron take the data (In our case these are X1,X2,X3,X4)    
-Input take by neurons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
+Input taken by neurons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
 
-2. cell body :- It consist a sum and a fuction which do some mathematics (we will learn it later).
-it consist a function :<img src="https://latex.codecogs.com/gif.latex?f&space;=&space;(W^TX&space;&plus;b)" title="f = (W^TX +b)" />    
-Here W's are the weight associated with the data X's . In biological neuron whenevr we learn something the dendrite get some weight in order to store the information like that the NN neuron also have some weight (wieght change over time : we will learn this in backpropagation) , b is a bias.
+2. cell body :- It has a fuction which tries to learn from the given data (we will learn it later).  
+the function look something like this  <img src="https://latex.codecogs.com/gif.latex?function&space;=&space;(W^TX&space;&plus;&space;b)" title="function = (W^TX + b)" />  
+Here Wi's are the weight associated with the data Xi's . In biological neuron whenever we learn something the dendrite get some weight   in order to store the information like that the NN neuron also have some weight (wieghts change over time : we will learn this in       backpropagation) , b is a bias.
 
-3. output : After solving the math it produced some result. 
+3. output : After learning the function it generate an output , for example in the above where i gave an example about detecting cat or dog where at the end it saying that picture is a cat. 
 
 ###### <font color = 'red'> note : This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
 
 ## <font color = 'orangre'>Perceptron :-</font>
+There is a thing called perceptron.
 The perceptron is an algorithm for learning a binary classifier called a threshold function: A function which going to return 1 when <img src="https://latex.codecogs.com/gif.latex?W^TX&space;&plus;&space;b&space;>&space;0" title="W^TX + b > 0" /> else it will return 0.
 
 ![image](https://user-images.githubusercontent.com/46401460/71661379-fdc11580-2d73-11ea-9bc3-bbed968902d5.png)
