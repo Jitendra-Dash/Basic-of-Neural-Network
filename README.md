@@ -63,8 +63,8 @@ Here Wi's are the weight associated with the data Xi's . In biological neuron wh
 
 ###### <font color = 'red'> note : This is not many to one what i mean is we might have sveral input as well as output. which we will see in future. </font>
 
-## <font color = 'orangre'>Perceptron :-</font>
 There is a thing called perceptron.
+## <font color = 'red'>Perceptron :-</font>
 The perceptron is an algorithm for learning a binary classifier called a threshold function: A function which going to return 1 when <img src="https://latex.codecogs.com/gif.latex?W^TX&space;&plus;&space;b&space;>&space;0" title="W^TX + b > 0" /> else it will return 0.
 
 ![image](https://user-images.githubusercontent.com/46401460/71661379-fdc11580-2d73-11ea-9bc3-bbed968902d5.png)
