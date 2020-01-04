@@ -55,8 +55,18 @@ As we can see in the above picture we can divide a neuron into 3 catagory :
 1. Input :- Here the neuron take the data (In our case these are X1,X2,X3,X4)    
 Input taken by neurons are nothing but some vectors (these vectors are came from different kind of data it could be image ,text etc.)   
 
-2. cell body :- It has a fuction which tries to learn from the given data (we will learn it later).  
-the function look something like this  <img src="https://latex.codecogs.com/gif.latex?function&space;=&space;(W^TX&space;&plus;&space;b)" title="function = (W^TX + b)" />  
+2. cell body :- It has a fuction (also know as activation function) which tries to learn from the given data by <font color = 'blue'>Training</font>.
+#### Training a neruron means finding the weights and bais. 
+
+the function look something like this : <img src="https://latex.codecogs.com/gif.latex?function(W1*X1&space;&plus;&space;W2&space;*X2&space;&plus;&space;W3*X3&space;&plus;&space;...&space;&plus;&space;WjXj)" title="function(W1*X1 + W2 *X2 + W3*X3 + ... + WjXj)" />   
+
+or we could write like this,
+<img src="https://latex.codecogs.com/gif.latex?function(\sum&space;Wj*Xj&space;&plus;&space;b)" title="function(\sum Wj*Xj + b)" />  
+
+or,
+<img src="https://latex.codecogs.com/gif.latex?function(W^TXj&space;&plus;&space;b)" title="function(W^TXj + b)" />  
+
+
 Here Wi's are the weight associated with the data Xi's . In biological neuron whenever we learn something the dendrite get some weight   in order to store the information like that the NN neuron also have some weight (wieghts change over time : we will learn this in       backpropagation) , b is a bias.
 
 3. output : After learning the function it generate an output , for example in the above where i gave an example about detecting cat or dog where at the end it saying that picture is a cat. 
